@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контрольна робота</title>
+</head>
+<body>
+    <h1>Контрольна робота</h1>
+    <h2>Христан Вікторія Андріївна</h2>
+    <h3>Варіант 1:</h3>
+
+    <!-- Блок 1 -->
+    <div>
+        <h4>Текст</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque fringilla vestibulum est, eget venenatis ligula tincidunt vel.</p>
+    </div>
+
+    <!-- Блок 2 -->
+    <div>
+        <h4>Список</h4>
+        <ul>
+            <li>Хліб</li>
+            <li>Масло</li>
+            <li>Мінеральна вода</li>
+            <li>Крупи:
+                <ul>
+                    <li>Гречка</li>
+                    <li>Рис</li>
+                    <li>Манка</li>
+                </ul>
+            </li>
+            <li>Макарони</li>
+        </ul>
+    </div>
+
+    <!-- Блок 3 -->
+    <div>
+        <h4>Таблиця</h4>
+        <table>
+            <tr>
+                <th>Країна</th>
+                <th>Населення</th>
+            </tr>
+            <tr>
+                <td>Німеччина</td>
+                <td>83,02 млн. ос.</td>
+            </tr>
+            <tr>
+                <td>Чехія</td>
+                <td>10,69 млн. ос.</td>
+            </tr>
+            <tr>
+                <td>Франція</td>
+                <td>66,8 млн. ос.</td>
+            </tr>
+            <tr>
+                <td>Бельгія</td>
+                <td>11,46 млн. ос.</td>
+            </tr>
+        </table>
+    </div>
+
+    <!-- Блок 4 -->
+    <div>
+        <h4>Зображення</h4>
+        <img src="your_image_filename.jpg" alt="Зображення" width="320" height="240">
+        <p>Посилання на зображення: <a href="your_image_filename.jpg">Текст посилання</a></p>
+    </div>
+</body>
+</html>
